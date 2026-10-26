@@ -1,0 +1,9 @@
+node_modules/
+.runtime/
+*.local.json
+.env
+.env.*
+*.log
+cache/
+lunch-menu.json
+school-day.json

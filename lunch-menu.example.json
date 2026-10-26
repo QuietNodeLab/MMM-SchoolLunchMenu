@@ -1,0 +1,14 @@
+{
+  "days": {
+    "2030-01-08": {
+      "main": "Pasta with vegetables",
+      "sides": ["Fresh fruit"],
+      "notes": ["Water available"]
+    },
+    "2030-01-10": {
+      "main": "Sample pizza",
+      "sides": ["Salad"]
+    }
+  },
+  "alternates": ["Vegetarian sandwich"]
+}
